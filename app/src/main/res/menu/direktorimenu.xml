@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/app_name"
+    android:id="@+id/menu_profile"
+    android:icon="@drawable/androith" />
+    <item android:title="@string/app_name"
+        android:id="@+id/menu_film"
+        android:icon="@drawable/film"
+        />
+</menu>
